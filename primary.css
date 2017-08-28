@@ -21,7 +21,7 @@ body
 	height:						10vh;
 	width:						10vw;
 	
-	transform: 					rotateZ(45deg);
+	transform: 					rotateZ(35deg) scale(2) translate(200px);
 	background-color: 			red;
 }
 
