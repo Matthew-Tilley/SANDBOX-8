@@ -21,7 +21,7 @@ body
 	height:						10vh;
 	width:						10vw;
 	
-	transform: 					translate(80%, 70%);
+	transform: 					translate(15vw, 10vh);
 	
 	background-color: 			red;
 }
