@@ -21,7 +21,7 @@ body
 	height:						10vh;
 	width:						10vw;
 	
-	transform: 					scaleX(.5);
+	transform: 					scale(.5, .5);
 	background-color: 			red;
 }
 
