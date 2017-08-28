@@ -21,7 +21,7 @@ body
 	height:						10vh;
 	width:						10vw;
 	
-	transform: 					rotateX(85deg);
+	transform: 					rotateY(80deg);
 	background-color: 			red;
 }
 
