@@ -5,14 +5,23 @@
 	font-size:					10px;
 }
 
+body
+{
+	text-align: 				center;
+	
+}
+
 #BOX_1
 {
 	height:						10vh;
 	width:						10vw;
 	
+	text-align: 				center;
+	
+	
 	background-color: 			red;
 	
-	transform: 					translateY(39rem);
+	
 }
 
 
