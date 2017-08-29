@@ -41,12 +41,15 @@ body
 	
 	font-size:					1.5rem;
 	color:						white;
+	
+	transition:					2s;
 }
 
 
 #CIRCLE_1:hover				
 {
 	background-color:			purple;
+	transform: 					rotate(360deg);
 }
 
 
