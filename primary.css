@@ -26,6 +26,16 @@ body
 }
 
 
+#BOX_2
+{
+	height:						10vh;
+	width:						10vw;
+	
+	
+	background-color: 			lightblue;
+}
+
+
 #CIRCLE_1
 {
 	display:					flex;
@@ -51,6 +61,7 @@ body
 	background-color:			purple;
 	transform: 					rotate(360deg);
 }
+
 
 
 
